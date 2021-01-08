@@ -1,0 +1,54 @@
+body{
+	align-self: center;
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 500;
+	background: black;
+	color: white;
+	padding: 20px;
+	position: relative;
+
+}
+
+.heading{
+	text-align: left;
+	font-size: 80px;
+}
+
+
+#profileimg{
+	width: 100%;
+	height: 80%;
+}
+
+#intro-name{
+	text-align: left;
+	padding-top: 60px;
+	font-size: 60px;
+
+}
+
+#intro-para{
+	text-align: left;
+	font-size: 23px;
+
+}
+
+.button{
+	background-color: purple;
+	border: white;
+	width: 150px;
+	height: 50px;
+	font-size: 20px;
+	color: white;
+    
+}
+
+#bottom-part{
+
+	background-color: purple;
+}
+
+.card-img-top{
+	height: 100%;
+}
